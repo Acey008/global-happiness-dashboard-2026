@@ -6,6 +6,10 @@ An interactive data analytics dashboard examining
 cross-country happiness scores and associated
 quality-of-life indicators.
 
+## Live Interactive Dashboard
+
+[Explore the Global Happiness & Quality of Life Dashboard](https://world-wellbeing.streamlit.app/)
+
 ## Objectives
 
 - Examine global happiness score distributions
